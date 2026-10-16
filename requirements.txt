@@ -1,0 +1,2 @@
+# Não são necessárias bibliotecas externas.
+# Este projeto utiliza exclusivamente a biblioteca padrão do Python.
